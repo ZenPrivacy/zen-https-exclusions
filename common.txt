@@ -116,6 +116,7 @@ dash.irbis.sh
 ios.chat.openai.com
 ab.chatgpt.com
 oaiusercontent.com
+ws.chatgpt.com
 
 # Issues
 # https://github.com/ZenPrivacy/zen-desktop/pull/223
